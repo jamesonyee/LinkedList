@@ -1,7 +1,7 @@
 C++ Linked List Implementation by Jameson Yee
 
 Purpose:
-Practice basic operations of the data struction and its operations
+Practice basic operations of the data structure
 
 key functions:
 Push back and front
