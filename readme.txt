@@ -10,7 +10,7 @@ split (recursively cuts list into sublists for merge sort)
 merge sort (ascending or descending)
 
 note: at the moment you can only test one sort function at a time. Uncomment the last line of
-the split fuction (243) and the 2 lines in the drive code to test the other sort fuction. 
+the split fuction (243) and the 2 lines in driver.cpp to test the other sort fuction. 
 
 
 
